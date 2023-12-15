@@ -2,36 +2,36 @@
 
 <h1>partie authentification</h1>
 
-<img src="Screenshots/authentification.png">
+<img src="Capture/authentification.png">
 
 <h1>authentification si le mdp ou username est incorrect</h1>
 
-<img src="Screenshots/authetification-incorrrect.png">
+<img src="Capture/authetification-incorrrect.png">
 
 <h1>produits dans la partie admin</h1>
 
-<img src="Screenshots/Products-admin.png">
+<img src="Capture/Products-admin.png">
 
-<h1>produits dans la partie user</h1>
+<h1>Produits dans la partie user</h1>
 
-<img src="Screenshots/products-user.png">
+<img src="Capture/products-user.png">
 
-<h1>new-produits dans la partie admin</h1>
+<h1>New-produits dans la partie admin</h1>
 
-<img src="Screenshots/newProduct-admin.png">
+<img src="Capture/newProduct-admin.png">
 
-<h1>new-produits dans la partie user</h1>
+<h1>New-produits dans la partie user</h1>
 
-<img src="Screenshots/newProduct-user.png">
+<img src="Capture/newProduct-user.png">
 
-<h1>edit produit dans la partie admin</h1>
+<h1>Edit produit dans la partie admin</h1>
 
-<img src="Screenshots/editproduct-admin2.png">
+<img src="Capture/editproduct-admin2.png">
 
-<h1>edit produit dans la partie user</h1>
+<h1>Edit produit dans la partie user</h1>
 
-<img src="Screenshots/editProduct-user.png">
+<img src="Capture/editProduct-user.png">
 
-<h1>supression de produits</h1>
+<h1>Supression de produits</h1>
 
-<img src="Screenshots/suppressionProduit.png">
+<img src="Capture/suppressionProduit.png">
